@@ -12,6 +12,7 @@ public class Main {
   public static void main(String[] args) {
     try {
       //String gAscii = FigletFont.convertOneLine("Gresham");
+
       String gAscii = "Gresham";
 
       System.out.print("Working");
