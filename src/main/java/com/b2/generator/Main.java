@@ -1,6 +1,7 @@
 package com.b2.generator;
 
-import com.github.lalyos.jfiglet.FigletFont;
+
+//import com.github.lalyos.jfiglet.FigletFont;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.io.BufferedWriter;
